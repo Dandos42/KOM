@@ -1,2 +1,4 @@
-# KOM
-Projekt do komunikační technologií, WireShark, protokoly, OSI model
+# Comunication and Network Technology
+
+## Description
+Analysis of Captured Network Traffic Using Wireshark
